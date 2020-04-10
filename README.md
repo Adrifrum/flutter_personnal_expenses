@@ -1,6 +1,8 @@
 # APP_EXP_PERSO
 
-A new Flutter project.
+My new project :
+
+![alt text](image/gif.gif)
 
 ## Getting Started
 
